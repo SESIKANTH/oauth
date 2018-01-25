@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  x-ibm-name: "public-client-oauth-provider_sbi"
-  title: "public-client-oauth-provider_SBI"
+  x-ibm-name: "public-client-oauth-provider"
+  title: "public-client-oauth-provider"
   version: "1.0.0"
 schemes:
 - "https"

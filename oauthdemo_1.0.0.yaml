@@ -1,8 +1,8 @@
 ---
 product: "1.0.0"
 info:
-  name: "oauthdemo_sbi"
-  title: "OAuthDemo_SBI"
+  name: "oauthdemo"
+  title: "OAuthDemo"
   version: "1.0.0"
 visibility:
   view:

@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  x-ibm-name: "confidential-client-oauth-provider_sbi"
-  title: "confidential-client-oauth-provider_SBI"
+  x-ibm-name: "confidential-client-oauth-provider"
+  title: "confidential-client-oauth-provider"
   version: "1.0.0"
 schemes:
 - "https"

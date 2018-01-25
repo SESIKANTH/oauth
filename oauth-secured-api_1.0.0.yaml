@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  x-ibm-name: "oauth-secured-api_sbi"
-  title: "oauth-secured-api_SBI"
+  x-ibm-name: "oauth-secured-api"
+  title: "oauth-secured-api"
   version: "1.0.0"
 schemes:
 - "https"
